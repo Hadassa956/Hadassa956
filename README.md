@@ -4,9 +4,13 @@
 
 Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. Atualmente, estou em um curso superior tecnológico em Banco de Dados. Sou apaixonada por tecnologia e Dados tenho conhecimento de lógica de programação e análise de dados. Apaixonada por transformar dados brutos em informações estratégicas utilizando **SQL**, **Python** e ferramentas de Business Intelligence como **Power BI** e **Excel**. Buscando oportunidades para aplicar conhecimentos em modelagem, otimização de consultas e desenvolvimento de relatórios.
 
-
+<p align="left">
+    <a href="www.linkedin.com/in/hadassa-santos-a3a273386">
 
 ### 🤖 Linguagens e Tecnologias
+
+<img
+    
 
 <img 
     align="left" 
