@@ -7,17 +7,23 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
 <p align="left">
     <a href="www.linkedin.com/in/hadassa-santos-a3a273386">
         <img
-            src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-            >
+            src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+        />
     </a>
 </p>
             
 ---
 ### Linguagens e Tecnologias
 
-<img
-    
+
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+/>
 
 <img 
     align="left" 
