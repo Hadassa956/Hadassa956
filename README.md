@@ -5,14 +5,18 @@
 Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. Atualmente, estou em um curso superior tecnológico em Banco de Dados. Sou apaixonada por tecnologia e Dados tenho conhecimento de lógica de programação e análise de dados. Apaixonada por transformar dados brutos em informações estratégicas utilizando **SQL**, **Python** e ferramentas de Business Intelligence como **Power BI** e **Excel**. Buscando oportunidades para aplicar conhecimentos em modelagem, otimização de consultas e desenvolvimento de relatórios.
 
 <p align="left">
-    <a href="www.linkedin.com/in/hadassa-santos-a3a273386">
+    <a href="www.linkedin.com/in/hadassa-santos-a3a273386"></a>
         <img
             alt="LinkedIn"
             title="LinkedIn"
-            src="https://custom-icon-badges.demolab.com?linkedin/www.linkedin.com/in/hadassa-santos-a3a273386/https://as2.ftcdn.net/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12382%2Fhd-linkedin-blue-official-logo-png&psig=AOvVaw0Mf6oK4FhSTYXqzpn0Vokt&ust=1764077539309000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjW6I7zipEDFQAAAAAdAAAAABAE"
+            src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
             />
-
-### 🤖 Linguagens e Tecnologias
+    </a>
+</p>
+            
+---
+### Linguagens e Tecnologias
 
 <img
     
