@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hadassa Santos
+## Hadassa Santos
 
 **`Analista de Dados`**
 
