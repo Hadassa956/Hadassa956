@@ -6,6 +6,11 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
 
 <p align="left">
     <a href="www.linkedin.com/in/hadassa-santos-a3a273386">
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://custom-icon-badges.demolab.com?linkedin/www.linkedin.com/in/hadassa-santos-a3a273386"
+            />
 
 ### 🤖 Linguagens e Tecnologias
 
