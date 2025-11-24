@@ -41,10 +41,17 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
     title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+/>
 
 <img 
     align="left" 
@@ -80,9 +87,7 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-<br/>
-
+---
 ### 📊 Estatísticas
 
 <p>
@@ -102,3 +107,5 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
   />
 
 </p>
+
+[![Hadassa Github Stats](https://github-readme-stats.vercel.app/api?username=Hadassa956)](https://github.com/Hadassa956/github-readme-stats)
