@@ -9,7 +9,7 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
         <img
             alt="LinkedIn"
             title="LinkedIn"
-            src="https://custom-icon-badges.demolab.com?linkedin/www.linkedin.com/in/hadassa-santos-a3a273386](https://as2.ftcdn.net/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12382%2Fhd-linkedin-blue-official-logo-png&psig=AOvVaw0Mf6oK4FhSTYXqzpn0Vokt&ust=1764077539309000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjW6I7zipEDFQAAAAAdAAAAABAE)"
+            src="https://custom-icon-badges.demolab.com?linkedin/www.linkedin.com/in/hadassa-santos-a3a273386/https://as2.ftcdn.net/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12382%2Fhd-linkedin-blue-official-logo-png&psig=AOvVaw0Mf6oK4FhSTYXqzpn0Vokt&ust=1764077539309000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjW6I7zipEDFQAAAAAdAAAAABAE"
             />
 
 ### 🤖 Linguagens e Tecnologias
