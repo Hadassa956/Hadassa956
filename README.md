@@ -88,6 +88,7 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
 />
 </br>
 </br>
+
 <!--
 ### 📊 Estatísticas
 
@@ -99,7 +100,7 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Hadassa956&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
---!>
+
 
   <img 
     align="left" 
@@ -109,3 +110,4 @@ Me chamo Hadassa jennifer dos Santos, tenho 23 anos, residente em Minas Gerias. 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"
   />
 </p>
+--!>
