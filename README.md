@@ -28,7 +28,7 @@ Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Ke
 🛠️ Linguagens e Tecnologias
 
 **Dados & Cloud Computing:**
-<br>
+
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Apache Spark" title="Apache Spark" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
 <img align="left" alt="Azure" title="Microsoft Azure" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
@@ -38,7 +38,8 @@ Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Ke
 ---
 
 **Desenvolvimento Web:**
-<br>
+
+
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
