@@ -35,7 +35,7 @@ Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Ke
 <img align="left" alt="Postgresql" title="PostgreSQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
-
+---
 
 **Desenvolvimento Web:**
 
