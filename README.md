@@ -11,13 +11,23 @@ Atualmente, atuo com a *stack* de dados da Microsoft Azure (Databricks, Data Lak
 🌍 **Objetivo:** Procuro desafios para aplicar os meus conhecimentos em processamento de Big Data, otimização de consultas e governação de dados.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/hadassa-santos-a3a273386/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="70px" />
-    </a>
+
+    <a href=https://www.linkedin.com/in/hadassa-santos-a3a273386/>
+
+        <img
+
+            src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+
+             width="70px"
+
+        />
+
+    </a>
+
 </p>
             
 ---
-### 🛠️ Linguagens e Tecnologias
+🛠️ Linguagens e Tecnologias
 
 **Dados & Cloud Computing:**
 <br>
