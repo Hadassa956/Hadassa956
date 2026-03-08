@@ -1,6 +1,6 @@
 ## Hadassa Santos
 
-**`Engenheira de Dados | Data Engineer`**
+**`Estudante de Engenharia de Dados | Data Engineer Student`**
 
 Olá! Sou a Hadassa, tenho 23 anos, estudante de bases de dados e sou apaixonada por projetar e construir arquiteturas de dados escaláveis na *cloud*. 
 
