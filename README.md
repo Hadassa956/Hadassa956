@@ -8,7 +8,7 @@ O meu foco principal é a **Engenharia de Dados**, desenvolvendo pipelines *end-
 
 Atualmente, atuo com a *stack* de dados da Microsoft Azure (Databricks, Data Lake, Key Vault) e estou em preparação para certificações oficiais de peso no mercado, como a **Azure Data Engineer Associate (DP-203)** e **Apache Spark Developer**.
 
-🌍 **Objetivo:** Procuro desafios para aplicar os meus conhecimentos em processamento de Big Data, otimização de consultas e governação de dados.
+**Objetivo:** Procuro desafios para aplicar os meus conhecimentos em processamento de Big Data, otimização de consultas e governação de dados.
 ---
 Hello! I'm Hadassa, 23 years old, databases student and passionate about designing and building scalable cloud data architectures.
 
@@ -16,7 +16,7 @@ My main focus is **Data Engineering**, developing end-to-end pipelines (ETL/ELT)
 
 Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Key Vault) and I am preparing for major official market certifications, such as the **Azure Data Engineer Associate (DP-203)** and **Apache Spark Developer**.
 
-🌍 **Goal:** I am looking for challenges to apply my knowledge in Big Data processing, query optimization, and data governance.
+**Goal:** I am looking for challenges to apply my knowledge in Big Data processing, query optimization, and data governance.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hadassa-santos-a3a273386/" target="_blank">
@@ -25,7 +25,7 @@ Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Ke
 </p>
             
 
-🛠️ Linguagens e Tecnologias
+Linguagens e Tecnologias
 
 **Dados & Cloud Computing:**
 
