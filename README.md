@@ -6,15 +6,12 @@ Olá! Sou a Hadassa, tenho 23 anos, estudante de bases de dados e sou apaixonada
 
 O meu foco principal é a **Engenharia de Dados**, desenvolvendo pipelines *end-to-end* (ETL/ELT) e aplicando o modelo de Arquitetura Medallion. Acredito na resolução de problemas através de código sólido, substituindo processos manuais por automação robusta com **Python**, **PySpark** e **SQL**. 
 
-Atualmente, atuo com a *stack* de dados da Microsoft Azure (Databricks, Data Lake, Key Vault) e estou em preparação para certificações oficiais de peso no mercado, como a **Azure Data Engineer Associate (DP-203)** e **Apache Spark Developer**.
-
 **Objetivo:** Procuro desafios para aplicar os meus conhecimentos em processamento de Big Data, otimização de consultas e governação de dados.
 ---
 Hello! I'm Hadassa, 23 years old, databases student and passionate about designing and building scalable cloud data architectures.
 
 My main focus is **Data Engineering**, developing end-to-end pipelines (ETL/ELT) and applying the Medallion Architecture model. I believe in solving problems through solid code, replacing manual processes with robust automation using **Python**, **PySpark**, and **SQL**.
 
-Currently, I work with the Microsoft Azure data stack (Databricks, Data Lake, Key Vault) and I am preparing for major official market certifications, such as the **Azure Data Engineer Associate (DP-203)** and **Apache Spark Developer**.
 
 **Goal:** I am looking for challenges to apply my knowledge in Big Data processing, query optimization, and data governance.
 
