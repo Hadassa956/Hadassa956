@@ -1,19 +1,33 @@
 ## Hadassa Santos
 
-**`Estudante de Engenharia de Dados | Data Engineer Student`**
+**`Python Developer, SQL, AWS & Terraform | Backend & Data Infrastructure | Cloud Architecture`**
 
-Olá! Sou a Hadassa, tenho 23 anos, estudante de bases de dados e sou apaixonada por projetar e construir arquiteturas de dados escaláveis na *cloud*. 
 
-O meu foco principal é a **Engenharia de Dados**, desenvolvendo pipelines *end-to-end* (ETL/ELT) e aplicando o modelo de Arquitetura Medallion. Acredito na resolução de problemas através de código sólido, substituindo processos manuais por automação robusta com **Python**, **PySpark** e **SQL**. 
+I develop Python projects focused on automation, API integration, data manipulation, and building practical solutions.
 
-**Objetivo:** Procuro desafios para aplicar os meus conhecimentos em processamento de Big Data, otimização de consultas e governação de dados.
+I am driven by aligning programming logic with technical efficiency, focusing on:
+
+
+
+Development: Application building and systems integration.
+
+Data & Cloud: Managing information flows and leveraging cloud technologies.
+
+Collaboration: Thriving in environments focused on knowledge sharing and continuous learning.
+
 ---
-Hello! I'm Hadassa, 23 years old, databases student and passionate about designing and building scalable cloud data architectures.
 
-My main focus is **Data Engineering**, developing end-to-end pipelines (ETL/ELT) and applying the Medallion Architecture model. I believe in solving problems through solid code, replacing manual processes with robust automation using **Python**, **PySpark**, and **SQL**.
+Desenvolvo projetos em Python com foco em automação, integração de APIs, manipulação de dados e criação de soluções práticas.
+
+Minha motivação é alinhar a lógica de programação com a eficiência técnica, com foco em:
 
 
-**Goal:** I am looking for challenges to apply my knowledge in Big Data processing, query optimization, and data governance.
+
+Desenvolvimento: Criação e integração de sistemas.
+
+Dados e nuvem: Gerenciamento de fluxos de informação e aproveitamento de tecnologias em nuvem.
+
+Colaboração: Desempenho em ambientes voltados para o compartilhamento de conhecimento e o aprendizado contínuo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hadassa-santos-a3a273386/" target="_blank">
@@ -22,9 +36,9 @@ My main focus is **Data Engineering**, developing end-to-end pipelines (ETL/ELT)
 </p>
             
 
-Linguagens e Tecnologias
+**Hard Skills**
 
-**Dados & Cloud Computing:**
+**Data & Cloud Computing:*
 
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Apache Spark" title="Apache Spark" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
@@ -34,11 +48,11 @@ Linguagens e Tecnologias
 
 ---
 
-**Desenvolvimento Web:**
+**Development:*
 
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 
