@@ -22,7 +22,6 @@ Desenvolvo projetos em Python com foco em automação, integração de APIs, man
 Minha motivação é alinhar a lógica de programação com a eficiência técnica, com foco em:
 
 
-
 Desenvolvimento: Criação e integração de sistemas.
 
 Dados e nuvem: Gerenciamento de fluxos de informação e aproveitamento de tecnologias em nuvem.
