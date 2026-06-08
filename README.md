@@ -46,7 +46,7 @@ Colaboração: Desempenho em ambientes voltados para o compartilhamento de conhe
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
 ---
---
+---
 
 **Development:*
 
