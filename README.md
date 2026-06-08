@@ -37,6 +37,7 @@ Colaboração: Desempenho em ambientes voltados para o compartilhamento de conhe
 
 **Hard Skills**
 
+---
 **Data & Cloud Computing:*
 
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -44,8 +45,6 @@ Colaboração: Desempenho em ambientes voltados para o compartilhamento de conhe
 <img align="left" alt="Azure" title="Microsoft Azure" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="Postgresql" title="PostgreSQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
----
 ---
 
 **Development:*
